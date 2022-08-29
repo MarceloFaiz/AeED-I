@@ -4,6 +4,6 @@
 
 -Exercício: Exercício prático em aula no dia 26/08/22
 
--GitHub: 
+-GitHub: https://github.com/MarceloFaiz/AeED-I/tree/main/Exercicios-praticos/m2-exercicio-pratico-01
 
--O que funciona e não funciona: em princípios não há erros no programa feito em casa. O programa feito em aula está incompleto.
+-O que funciona e não funciona: Em princípio não há erros no programa feito em casa. O programa feito em aula está incompleto.
