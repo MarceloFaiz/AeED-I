@@ -8,4 +8,4 @@
 
 -O que funciona e não funciona: A única função que não funciona é a de limpar a lista "Clear ()"
 
--Vídeo explicativo: 
+-Vídeo explicativo: https://drive.google.com/file/d/1OjNhO6PBKo-PFmmSQpWkRm5ALTpXTU5I/view
