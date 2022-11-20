@@ -8,7 +8,7 @@
 
 -GitHub: https://github.com/MarceloFaiz/AeED-I/tree/main/Exercicios-praticos/m2-exercicio-pratico-04
 
--Vídeo: 
+-Vídeo: https://drive.google.com/file/d/1prsdlvgUuOU9JKRLxZw_ay5nu9ZNvZ6M/view
 
 -O que funciona e não funciona: Programa funciona corretamente, ambos os algoritmos feitos em aula fazem 
 o que o exercício pede, o algoritmo feito em casa, por não ser muito diferente de um dos algoritmos feitos 
